@@ -190,12 +190,6 @@ content:
       - Jan 2013 - Feb 2013 "Development of Operating and Sales Dashboard"
       - Sep 2012 - Dec 2012 "Development of Global Frequency Monitoring System"
       - Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"
-  - title: A Little More About Me
-    layout: text
-    content: |
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
