@@ -183,28 +183,28 @@ content:
     content:
       - layout: left
         border: weak
-        title: Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"
+        title: 'Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"'
       - layout: left
         border: weak
-        title: Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"
+        title: 'Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"'
       - layout: left
         border: weak
-        title: Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"
+        title: 'Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"'
       - layout: left
         border: weak
-        title: Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"
+        title: 'Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"'
       - layout: left
         border: weak
-        title: Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"
+        title: 'Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"'
       - layout: left
         border: weak
-        title: Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"
+        title: 'Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"'
       - layout: left
         border: weak
-        title: Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"
+        title: 'Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"'
       - layout: left
         border: weak
-        title: Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"
+        title: 'Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"'
   - title: Patents
     layout: list
     content:
