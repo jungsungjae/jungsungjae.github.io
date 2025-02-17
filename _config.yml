@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sungjae Jung
-title: Sungjae Jung
+#title: Sungjae Jung
 email: sungjae.2425@gmail.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -85,25 +85,59 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        title: Seoul National University Hospital
+        sub_title: Senior Researcher
+        caption: Jan 2023 - present
+        title: Seoul National University
+        sub_title: Senior Researcher
+        caption: Feb 2023 - Sep 2023
+        title: Yonsei University Health System
+        sub_title: Researcher
+        caption: Aug 2022 - Dec 2022
+        title: Weavrcare (ex. MediBloc)
+        sub_title: Researcher
+        caption: Dec 2017 - Jul 2020
+        title: Seoul National University Hospital
+        sub_title: Researcher
+        caption: Nov 2017 - Nov 2017
+        title: Ajou University
+        sub_title: Researcher
+        caption: Sep 2015 - Oct 2017
+        title: Seoul National University Hospital
+        sub_title: Researcher
+        caption: Nov 2013 - Aug 2015
+        title: Opensurvey (ex. IDINCU)
+        sub_title: Developer
+        caption: Mar 2013 - Oct 2013
+        title: Spoqa
+        sub_title: Intern
+        caption: Jan 2013 - Feb 2013
+        title: Korea Telecom
+        sub_title: Intern
+        caption: Sep 2012 - Dec 2012
+#        link: Link to company (optional)
+#        quote: >
+#          Short description of the company (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: Ajou University
+        sub_title: MS Medical Informatics
+        caption: Sep 2015 - Aug 2017
+#        quote: >
+#          Short institution or course description (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of qualification
+        title: Soongsil University
+        sub_title: BE Computer Science and Engineering
+        caption: Mar 2007 - Aug 2013
+#        quote: >
+#          Short institution or course description (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
