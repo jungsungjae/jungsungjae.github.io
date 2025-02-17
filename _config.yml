@@ -138,14 +138,14 @@ content:
   - title: Publications
     layout: text
     content: | 
-      - "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/32795988/")
-      - "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/32570603/")
-      - "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/31438195/")
-      - "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/31642211/")
-      - "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study" [EHJ]("https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616")
-      - "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/29295138/")
-      - "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems" [ACC]("https://www.accjournal.org/journal/view.php?number=1039")
-      - "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/25762414/")
+      - "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32795988/)
+      - "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32570603/)
+      - "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31438195/)
+      - "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642211/)
+      - "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study" [EHJ](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616)
+      - "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)" [PubMed](https://pubmed.ncbi.nlm.nih.gov/29295138/)
+      - "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems" [ACC](https://www.accjournal.org/journal/view.php?number=1039)
+      - "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function" [PubMed](https://pubmed.ncbi.nlm.nih.gov/25762414/)
   - title: Presentations
     layout: text
     content: | 
@@ -165,7 +165,7 @@ content:
   - title: Projects
     layout: text
     content: | 
-      - Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service" [Github]("https://github.com/jungsungjae/healthcube")
+      - Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service" [Github](https://github.com/jungsungjae/healthcube)
       - Jan 2023 - Dec 2023 "Development of Knowledge Base for Smart Health Home Platform"
       - Jul 2022 - Dec 2022 "Development of R packages for Spatio-temporal Epidemiology"
       - Jul 2022 - Dec 2022 "Development of classification model with fine-tuning based on BERT model"
