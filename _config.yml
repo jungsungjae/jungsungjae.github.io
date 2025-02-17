@@ -81,288 +81,25 @@ content:
 #          Short overview of the project (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description about the work on/with the project
-  - title: Projects
+  - title: Education
     layout: list
     content:
       - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Ajou University
+        sub_title: MS Medical Informatics
+        caption: Sep 2015 - Aug 2017
         quote: >
-          Short overview of the project (optional)
-        description: |
-          This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2023-KH136520).
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
       - layout: left
-        border: weak
-        title: Development of module for using Deep Learning based NLP model
+        title: Soongsil University
+        sub_title: BE Computer Science and Engineering
+        caption: Mar 2007 - Aug 2013
         quote: >
-          Short overview of the project (optional)
-        description: |
-          Skill: Python, Numpy, Anaconda
-          NLP model: Google SpeechRecognition, KoSpeech
-      - layout: left
-        border: weak
-        title: Development of Blockchain-based personal mobile medical-electronic-documents platform
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Supported by KISA, Ministry of Science and ICT
-          Collaboration with Samsung Seoul Hospital, Seoul National University Hospital, Severance Hospital, Yonsei University
-      - layout: left
-        border: weak
-        title: Development of a mobile application for personal health record exchanges
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
-      - layout: left
-        border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
-        link: https://github.com/jungsungjae/healthcube
-        link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: Experience
     layout: list
     content:
@@ -456,25 +193,300 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Publications
     layout: list
     content:
       - layout: left
-        title: Ajou University
-        sub_title: MS Medical Informatics
-        caption: Sep 2015 - Aug 2017
+        border: weak
+        title: [MIE2025]Project name
+        link: Link to project
+        link_text: Link Text
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
       - layout: left
-        title: Soongsil University
-        sub_title: BE Computer Science and Engineering
-        caption: Mar 2007 - Aug 2013
+        border: weak
+        title: [ATTD2025]Project name
+        link: Link to project
+        link_text: Link Text
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: [HEALTHINF2025]Project name
+        link: Link to project
+        link_text: Link Text
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: [OHDSI]Project name
+        link: Link to project
+        link_text: Link Text
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: [KOSMI]Project name
+        link: Link to project
+        link_text: Link Text
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Mar 2023 - Dec 2025  
+          This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2023-KH136520).  
+      - layout: left
+        border: weak
+        title: Development of module for using Deep Learning based NLP model
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Aug 2020 - Nov 2020  
+          Skill: Python, Numpy, Anaconda  
+          NLP model: Google SpeechRecognition, KoSpeech  
+      - layout: left
+        border: weak
+        title: Development of Blockchain-based personal mobile medical-electronic-documents platform
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Apr 2020 - Jul 2020  
+          Supported by KISA, Ministry of Science and ICT
+          Collaboration with Samsung Seoul Hospital, Seoul National University Hospital, Severance Hospital, Yonsei University
+      - layout: left
+        border: weak
+        title: Development of a mobile application for personal health record exchanges
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Oct 2019 - Dec 2019  
+          Supported by NIA, Ministry of Science and ICT  
+          Collaboration with Seoul National University Bundang Hospital, Cha University  
+      - layout: left
+        border: weak
+        title: Development of a mobile application for patient alcohol management
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Jul 2019 - Dec 2019  
+          Supported by NIA, Ministry of Science and ICT  
+          Collaboration with Catholic University  
+      - layout: left
+        border: weak
+        title: Development of Blockchain-based forgery monitoring hospital information system
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          May 2019 - Nov 2019  
+          Supported by NIPA, Ministry of Science and ICT  
+          Collaboration with Yonsei University  
+      - layout: left
+        border: weak
+        title: Development of Blockchain-based personal health records management platform
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          May 2019 - Nov 2019  
+          Supported by KDATA, Ministry of Science and ICT  
+          Collaboration with Seoul National University Hospital, Cha University, Welt, Samsung Fire  
+      - layout: left
+        border: weak
+        title: Development of Blockchain platform for health information exchange based on dynamic
+consent
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Apr 2019 - Jul 2020  
+          Supported by KHIDI, Ministry of Health and Welfare  
+          Collaboration with Seoul National University Hospital  
+      - layout: left
+        border: weak
+        title: Research for integrating PGHD into HL7 FHIR, and use in Blockchain
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Oct 2018 - Nov 2018  
+          Background: HL7 FHIR, ISO/IEEE 11073, Blockchain, Merkle tree  
+          Part of the project supported by NIA, Ministry of Science and ICT  
+          Collaboration with Catholic University  
+      - layout: left
+        border: weak
+        title: Comparison of Data Standards for Personal Health Records
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Aug 2018 - Sep 2018  
+          Background: HL7 V2, V3, CDA, FHIR  
+          Part of the project supported by NIA, Ministry of Science and ICT  
+          Collaboration with Catholic University  
+      - layout: left
+        border: weak
+        title: Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Jul 2018 - Dec 2018  
+          Skill: Node.js, React, ReactNative, Ethereum, Solidity, IPFS  
+          Supported by NIA, Ministry of Science and ICT  
+          Collaboration with Cha University  
+      - layout: left
+        border: weak
+        title: Proof of Concept with Seoul National University Hospital
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Jan 2018 - Jun 2018  
+          Skill: Node.js, React, ReactNative, Ethereum, Solidity, IPFS  
+          Supported by Seoul National University Hospital  
+          Collaboration with Seoul National University Hospital  
+      - layout: left
+        border: weak
+        title: Logistic regression of large scale data using distributed processing algorithm
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Jan 2017 - May 2017  
+          Implementation of methods for data analysis.  
+          Skill: Python, Numpy  
+      - layout: left
+        border: weak
+        title: Conversion of NHIS Data of Korea to the OMOP Common Data Model
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          May 2016 - Dec 2016  
+          Data ETL and web service configuration.  
+          Skill: Java, HTML, JavaScript, SQL Server, Spring, Knockout.js, RequireJS, R  
+          NHIS: National Health Insurance Services  
+          OMOP: Observational Medical Outcome Partnership  
+      - layout: left
+        border: weak
+        title: Development of web based integrated code generating system for cohort analysis
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Nov 2015 - Sep 2016  
+          Web service development.  
+          Skill: Java, HTML, JavaScript, SQL Server, Spring, Knockout.js, RequireJS, R  
+      - layout: left
+        border: weak
+        title: Development of R packages: CERT, CELAR, SAN, PACE
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Mar 2016 - Sep 2016  
+          R package development for data analysis.  
+          Skill: SQL Server, R  
+          CERT, CLEAR are algorithms for detecting adverse drug reaction signals  
+          PACE is a method for assessment of prescribing patterns  
+          SAN is a normalization method for combination of laboratory test results  
+      - layout: left
+        border: weak
+        title: Development of tool for visualization of medication data
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Sep 2015 - Jun 2016  
+          Web service development.  
+          Skill: Java, HTML, JavaScript, SQL Server, R  
+      - layout: left
+        border: weak
+        title: Development of method for detecting adverse drug reaction (ADR) signal
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Sep 2015 - May 2016  
+          Data extraction, preprocessing and analysis.  
+          Skill: SQL Server, R  
+      - layout: left
+        border: weak
+        title: Initial setup and management of NGS Server
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Dec 2014 - Aug 2015  
+          Linux server setup and management.  
+          Skill: RedHat Enterprise Linux (RHEL) Server, Sun Grid Engine  
+      - layout: left
+        border: weak
+        title: Research about Designing Data Warehouse on Korea Association of Health Promotion
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          May 2014 - Oct 2014  
+          Data warehouse design.  
+          Skill: Data Warehouse  
+      - layout: left
+        border: weak
+        title: Research about Standardization of reference value of testing clinical specimen
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Dec 2013 - Mar 2014  
+          Data preprocessing and analysis.  
+          Skill: R  
+      - layout: left
+        border: weak
+        title: Development and Quality Assurance of Open Survey
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Mar 2013 - Oct 2013  
+          Web service development.  
+          Skill: Java, HTML, JavaScript, MariaDB, Struts, Spring, Git, KT Cloud, MyBatis  
+      - layout: left
+        border: weak
+        title: Development of Operating and Sales Dashboard
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Jan 2013 - Feb 2013  
+          Web service development.  
+          Skill: Python, HTML, JavaScript, PostgreSQL, Flask, Git, Heroku, SQLAlchemy  
+      - layout: left
+        border: weak
+        title: Development of Global Frequency Monitoring System
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Sep 2012 - Dec 2012  
+          Web service development.  
+          Skill: Java, HTML5, JavaScript, PostgreSQL  
+      - layout: left
+        border: weak
+        title: Development of Quadcopter (Humming bird)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Apr 2011 - Nov 2011  
+          Embedded module development.  
+          Skill: C, Network communication  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
