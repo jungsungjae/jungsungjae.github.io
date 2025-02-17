@@ -219,16 +219,9 @@ content:
     content:
       - layout: left
         border: weak
-        title: Development of "HealthCube" for Web 3.0 MyData Service
+        title: "Development of HealthCube for Web 3.0 MyData Service"
         link: https://github.com/jungsungjae/healthcube
         link_text: Github
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: |
@@ -236,7 +229,7 @@ content:
           This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2023-KH136520).  
       - layout: left
         border: weak
-        title: Development of module for using Deep Learning based NLP model
+        title: "Development of module for using Deep Learning based NLP model"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -245,7 +238,7 @@ content:
           NLP model: Google SpeechRecognition, KoSpeech  
       - layout: left
         border: weak
-        title: Development of Blockchain-based personal mobile medical-electronic-documents platform
+        title: "Development of Blockchain-based personal mobile medical-electronic-documents platform"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -254,7 +247,7 @@ content:
           Collaboration with Samsung Seoul Hospital, Seoul National University Hospital, Severance Hospital, Yonsei University
       - layout: left
         border: weak
-        title: Development of a mobile application for personal health record exchanges
+        title: "Development of a mobile application for personal health record exchanges"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -263,7 +256,7 @@ content:
           Collaboration with Seoul National University Bundang Hospital, Cha University  
       - layout: left
         border: weak
-        title: Development of a mobile application for patient alcohol management
+        title: "Development of a mobile application for patient alcohol management"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -272,7 +265,7 @@ content:
           Collaboration with Catholic University  
       - layout: left
         border: weak
-        title: Development of Blockchain-based forgery monitoring hospital information system
+        title: "Development of Blockchain-based forgery monitoring hospital information system"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -281,7 +274,7 @@ content:
           Collaboration with Yonsei University  
       - layout: left
         border: weak
-        title: Development of Blockchain-based personal health records management platform
+        title: "Development of Blockchain-based personal health records management platform"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -290,8 +283,7 @@ content:
           Collaboration with Seoul National University Hospital, Cha University, Welt, Samsung Fire  
       - layout: left
         border: weak
-        title: Development of Blockchain platform for health information exchange based on dynamic
-consent
+        title: "Development of Blockchain platform for health information exchange based on dynamic consent"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -300,7 +292,7 @@ consent
           Collaboration with Seoul National University Hospital  
       - layout: left
         border: weak
-        title: Research for integrating PGHD into HL7 FHIR, and use in Blockchain
+        title: "Research for integrating PGHD into HL7 FHIR, and use in Blockchain"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -310,7 +302,7 @@ consent
           Collaboration with Catholic University  
       - layout: left
         border: weak
-        title: Comparison of Data Standards for Personal Health Records
+        title: "Comparison of Data Standards for Personal Health Records"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -320,7 +312,7 @@ consent
           Collaboration with Catholic University  
       - layout: left
         border: weak
-        title: Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN
+        title: "Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -330,7 +322,7 @@ consent
           Collaboration with Cha University  
       - layout: left
         border: weak
-        title: Proof of Concept with Seoul National University Hospital
+        title: "Proof of Concept with Seoul National University Hospital"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -340,7 +332,7 @@ consent
           Collaboration with Seoul National University Hospital  
       - layout: left
         border: weak
-        title: Logistic regression of large scale data using distributed processing algorithm
+        title: "Logistic regression of large scale data using distributed processing algorithm"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -349,7 +341,7 @@ consent
           Skill: Python, Numpy  
       - layout: left
         border: weak
-        title: Conversion of NHIS Data of Korea to the OMOP Common Data Model
+        title: "Conversion of NHIS Data of Korea to the OMOP Common Data Model"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -360,7 +352,7 @@ consent
           OMOP: Observational Medical Outcome Partnership  
       - layout: left
         border: weak
-        title: Development of web based integrated code generating system for cohort analysis
+        title: "Development of web based integrated code generating system for cohort analysis"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -369,7 +361,7 @@ consent
           Skill: Java, HTML, JavaScript, SQL Server, Spring, Knockout.js, RequireJS, R  
       - layout: left
         border: weak
-        title: Development of R packages: CERT, CELAR, SAN, PACE
+        title: "Development of R packages: CERT, CELAR, SAN, PACE"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -381,7 +373,7 @@ consent
           SAN is a normalization method for combination of laboratory test results  
       - layout: left
         border: weak
-        title: Development of tool for visualization of medication data
+        title: "Development of tool for visualization of medication data"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -390,7 +382,7 @@ consent
           Skill: Java, HTML, JavaScript, SQL Server, R  
       - layout: left
         border: weak
-        title: Development of method for detecting adverse drug reaction (ADR) signal
+        title: "Development of method for detecting adverse drug reaction (ADR) signal"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -399,7 +391,7 @@ consent
           Skill: SQL Server, R  
       - layout: left
         border: weak
-        title: Initial setup and management of NGS Server
+        title: "Initial setup and management of NGS Server"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -408,7 +400,7 @@ consent
           Skill: RedHat Enterprise Linux (RHEL) Server, Sun Grid Engine  
       - layout: left
         border: weak
-        title: Research about Designing Data Warehouse on Korea Association of Health Promotion
+        title: "Research about Designing Data Warehouse on Korea Association of Health Promotion"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -417,7 +409,7 @@ consent
           Skill: Data Warehouse  
       - layout: left
         border: weak
-        title: Research about Standardization of reference value of testing clinical specimen
+        title: "Research about Standardization of reference value of testing clinical specimen"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -426,7 +418,7 @@ consent
           Skill: R  
       - layout: left
         border: weak
-        title: Development and Quality Assurance of Open Survey
+        title: "Development and Quality Assurance of Open Survey"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -435,7 +427,7 @@ consent
           Skill: Java, HTML, JavaScript, MariaDB, Struts, Spring, Git, KT Cloud, MyBatis  
       - layout: left
         border: weak
-        title: Development of Operating and Sales Dashboard
+        title: "Development of Operating and Sales Dashboard"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -444,7 +436,7 @@ consent
           Skill: Python, HTML, JavaScript, PostgreSQL, Flask, Git, Heroku, SQLAlchemy  
       - layout: left
         border: weak
-        title: Development of Global Frequency Monitoring System
+        title: "Development of Global Frequency Monitoring System"
         quote: >
           Short overview of the project (optional)
         description: |
@@ -453,7 +445,7 @@ consent
           Skill: Java, HTML5, JavaScript, PostgreSQL  
       - layout: left
         border: weak
-        title: Development of Quadcopter (Humming bird)
+        title: "Development of Quadcopter (Humming bird)"
         quote: >
           Short overview of the project (optional)
         description: |
