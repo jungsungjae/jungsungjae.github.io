@@ -61,25 +61,307 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+#                      # other value (or no value) means no border will be displayed
+#        title: Project name
+#        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        link_text: Link Text
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        quote: >
+#          Short overview of the project (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description about the work on/with the project
+  - title: Projects
+    layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
+          This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2023-KH136520).
+      - layout: left
+        border: weak
+        title: Development of module for using Deep Learning based NLP model
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Skill: Python, Numpy, Anaconda
+          NLP model: Google SpeechRecognition, KoSpeech
+      - layout: left
+        border: weak
+        title: Development of Blockchain-based personal mobile medical-electronic-documents platform
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Supported by KISA, Ministry of Science and ICT
+          Collaboration with Samsung Seoul Hospital, Seoul National University Hospital, Severance Hospital, Yonsei University
+      - layout: left
+        border: weak
+        title: Development of a mobile application for personal health record exchanges
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: Development of "HealthCube" for Web 3.0 MyData Service
+        link: https://github.com/jungsungjae/healthcube
+        link_text: Github
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url:Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: |
           Description about the work on/with the project
   - title: Experience
     layout: list
@@ -88,47 +370,92 @@ content:
         title: Seoul National University Hospital
         sub_title: Senior Researcher
         caption: Jan 2023 - present
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Seoul National University
         sub_title: Senior Researcher
         caption: Feb 2023 - Sep 2023
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Yonsei University Health System
         sub_title: Researcher
         caption: Aug 2022 - Dec 2022
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Weavrcare (ex. MediBloc)
         sub_title: Researcher
         caption: Dec 2017 - Jul 2020
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2017 - Nov 2017
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Ajou University
         sub_title: Researcher
         caption: Sep 2015 - Oct 2017
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2013 - Aug 2015
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Opensurvey (ex. IDINCU)
         sub_title: Developer
         caption: Mar 2013 - Oct 2013
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Spoqa
         sub_title: Intern
         caption: Jan 2013 - Feb 2013
+#        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: left
         title: Korea Telecom
         sub_title: Intern
         caption: Sep 2012 - Dec 2012
 #        link: Link to company (optional)
-#        quote: >
-#          Short description of the company (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description of role
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Education
     layout: list
     content:
@@ -136,18 +463,18 @@ content:
         title: Ajou University
         sub_title: MS Medical Informatics
         caption: Sep 2015 - Aug 2017
-#        quote: >
-#          Short institution or course description (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description of qualification
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
       - layout: left
         title: Soongsil University
         sub_title: BE Computer Science and Engineering
         caption: Mar 2007 - Aug 2013
-#        quote: >
-#          Short institution or course description (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description of qualification
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
