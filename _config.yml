@@ -136,84 +136,32 @@ content:
         sub_title: Intern
         caption: Sep 2012 - Dec 2012
   - title: Publications
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study."
-        link: "https://pubmed.ncbi.nlm.nih.gov/32795988/"
-        link_text: PubMed
-      - layout: left
-        border: weak
-        title: "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain"
-        link: "https://pubmed.ncbi.nlm.nih.gov/32570603/"
-        link_text: PubMed
-      - layout: left
-        border: weak
-        title: "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison."
-        link: "https://pubmed.ncbi.nlm.nih.gov/31438195/"
-        link_text: PubMed
-      - layout: left
-        border: weak
-        title: "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts"
-        link: "https://pubmed.ncbi.nlm.nih.gov/31642211/"
-        link_text: PubMed
-      - layout: left
-        border: weak
-        title: "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study"
-        link: "https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616"
-        link_text: EHJ
-      - layout: left
-        border: weak
-        title: "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)"
-        link: "https://pubmed.ncbi.nlm.nih.gov/29295138/"
-        link_text: PubMed
-      - layout: left
-        border: weak
-        title: "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems"
-        link: "https://www.accjournal.org/journal/view.php?number=1039"
-        link_text: ACC
-      - layout: left
-        border: weak
-        title: "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function"
-        link: "https://pubmed.ncbi.nlm.nih.gov/25762414/"
-        link_text: PubMed
+    layout: text
+    content: | 
+      - "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study." [PubMed]("https://pubmed.ncbi.nlm.nih.gov/32795988/")
+      - "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/32570603/")
+      - "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison." [PubMed]("https://pubmed.ncbi.nlm.nih.gov/31438195/")
+      - "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/31642211/")
+      - "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study" [EHJ]("https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616")
+      - "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/29295138/")
+      - "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems" [ACC]("https://www.accjournal.org/journal/view.php?number=1039")
+      - "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function" [PubMed]("https://pubmed.ncbi.nlm.nih.gov/25762414/")
   - title: Presentations
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: 'Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"'
-      - layout: left
-        border: weak
-        title: 'Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"'
-      - layout: left
-        border: weak
-        title: 'Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"'
-      - layout: left
-        border: weak
-        title: 'Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"'
-      - layout: left
-        border: weak
-        title: 'Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"'
-      - layout: left
-        border: weak
-        title: 'Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"'
-      - layout: left
-        border: weak
-        title: 'Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"'
-      - layout: left
-        border: weak
-        title: 'Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"'
+    layout: text
+    content: | 
+      - 'Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"'
+      - 'Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"'
+      - 'Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"'
+      - 'Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"'
+      - 'Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"'
+      - 'Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"'
+      - 'Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"'
+      - 'Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"'
   - title: Patents
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: "System and Method for the analysis of large amount of data"
-      - layout: left
-        border: weak
-        title: "Wireless charging method and system in a Wi-Fi zone"
+    layout: text
+    content: | 
+      - "System and Method for the analysis of large amount of data"
+      - "Wireless charging method and system in a Wi-Fi zone"
   - title: Projects
     layout: list
     content:
