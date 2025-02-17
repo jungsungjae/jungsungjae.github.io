@@ -88,30 +88,39 @@ content:
         title: Seoul National University Hospital
         sub_title: Senior Researcher
         caption: Jan 2023 - present
+      - layout: right
         title: Seoul National University
         sub_title: Senior Researcher
         caption: Feb 2023 - Sep 2023
+      - layout: right
         title: Yonsei University Health System
         sub_title: Researcher
         caption: Aug 2022 - Dec 2022
+      - layout: right
         title: Weavrcare (ex. MediBloc)
         sub_title: Researcher
         caption: Dec 2017 - Jul 2020
+      - layout: right
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2017 - Nov 2017
+      - layout: right
         title: Ajou University
         sub_title: Researcher
         caption: Sep 2015 - Oct 2017
+      - layout: right
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2013 - Aug 2015
+      - layout: right
         title: Opensurvey (ex. IDINCU)
         sub_title: Developer
         caption: Mar 2013 - Oct 2013
+      - layout: right
         title: Spoqa
         sub_title: Intern
         caption: Jan 2013 - Feb 2013
+      - layout: right
         title: Korea Telecom
         sub_title: Intern
         caption: Sep 2012 - Dec 2012
@@ -131,6 +140,7 @@ content:
 #          Short institution or course description (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
+      - layout: top-right
         title: Soongsil University
         sub_title: BE Computer Science and Engineering
         caption: Mar 2007 - Aug 2013
