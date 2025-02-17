@@ -163,243 +163,33 @@ content:
       - "System and Method for the analysis of large amount of data"
       - "Wireless charging method and system in a Wi-Fi zone"
   - title: Projects
-    layout: list
+    layout: text
     content:
-      - layout: left
-        border: weak
-        title: "Development of HealthCube for Web 3.0 MyData Service"
-        link: "https://github.com/jungsungjae/healthcube"
-        link_text: Github
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Mar 2023 - Dec 2025  
-          This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2023-KH136520).  
-      - layout: left
-        border: weak
-        title: "Development of module for using Deep Learning based NLP model"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Aug 2020 - Nov 2020  
-          Skill: Python, Numpy, Anaconda  
-          NLP model: Google SpeechRecognition, KoSpeech  
-      - layout: left
-        border: weak
-        title: "Development of Blockchain-based personal mobile medical-electronic-documents platform"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Apr 2020 - Jul 2020  
-          Supported by KISA, Ministry of Science and ICT
-          Collaboration with Samsung Seoul Hospital, Seoul National University Hospital, Severance Hospital, Yonsei University
-      - layout: left
-        border: weak
-        title: "Development of a mobile application for personal health record exchanges"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Oct 2019 - Dec 2019  
-          Supported by NIA, Ministry of Science and ICT  
-          Collaboration with Seoul National University Bundang Hospital, Cha University  
-      - layout: left
-        border: weak
-        title: "Development of a mobile application for patient alcohol management"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Jul 2019 - Dec 2019  
-          Supported by NIA, Ministry of Science and ICT  
-          Collaboration with Catholic University  
-      - layout: left
-        border: weak
-        title: "Development of Blockchain-based forgery monitoring hospital information system"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          May 2019 - Nov 2019  
-          Supported by NIPA, Ministry of Science and ICT  
-          Collaboration with Yonsei University  
-      - layout: left
-        border: weak
-        title: "Development of Blockchain-based personal health records management platform"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          May 2019 - Nov 2019  
-          Supported by KDATA, Ministry of Science and ICT  
-          Collaboration with Seoul National University Hospital, Cha University, Welt, Samsung Fire  
-      - layout: left
-        border: weak
-        title: "Development of Blockchain platform for health information exchange based on dynamic consent"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Apr 2019 - Jul 2020  
-          Supported by KHIDI, Ministry of Health and Welfare  
-          Collaboration with Seoul National University Hospital  
-      - layout: left
-        border: weak
-        title: "Research for integrating PGHD into HL7 FHIR, and use in Blockchain"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Oct 2018 - Nov 2018  
-          Background: HL7 FHIR, ISO/IEEE 11073, Blockchain, Merkle tree  
-          Part of the project supported by NIA, Ministry of Science and ICT  
-          Collaboration with Catholic University  
-      - layout: left
-        border: weak
-        title: "Comparison of Data Standards for Personal Health Records"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Aug 2018 - Sep 2018  
-          Background: HL7 V2, V3, CDA, FHIR  
-          Part of the project supported by NIA, Ministry of Science and ICT  
-          Collaboration with Catholic University  
-      - layout: left
-        border: weak
-        title: "Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Jul 2018 - Dec 2018  
-          Skill: Node.js, React, ReactNative, Ethereum, Solidity, IPFS  
-          Supported by NIA, Ministry of Science and ICT  
-          Collaboration with Cha University  
-      - layout: left
-        border: weak
-        title: "Proof of Concept with Seoul National University Hospital"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Jan 2018 - Jun 2018  
-          Skill: Node.js, React, ReactNative, Ethereum, Solidity, IPFS  
-          Supported by Seoul National University Hospital  
-          Collaboration with Seoul National University Hospital  
-      - layout: left
-        border: weak
-        title: "Logistic regression of large scale data using distributed processing algorithm"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Jan 2017 - May 2017  
-          Implementation of methods for data analysis.  
-          Skill: Python, Numpy  
-      - layout: left
-        border: weak
-        title: "Conversion of NHIS Data of Korea to the OMOP Common Data Model"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          May 2016 - Dec 2016  
-          Data ETL and web service configuration.  
-          Skill: Java, HTML, JavaScript, SQL Server, Spring, Knockout.js, RequireJS, R  
-          NHIS: National Health Insurance Services  
-          OMOP: Observational Medical Outcome Partnership  
-      - layout: left
-        border: weak
-        title: "Development of web based integrated code generating system for cohort analysis"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Nov 2015 - Sep 2016  
-          Web service development.  
-          Skill: Java, HTML, JavaScript, SQL Server, Spring, Knockout.js, RequireJS, R  
-      - layout: left
-        border: weak
-        title: "Development of R packages: CERT, CELAR, SAN, PACE"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Mar 2016 - Sep 2016  
-          R package development for data analysis.  
-          Skill: SQL Server, R  
-          CERT, CLEAR are algorithms for detecting adverse drug reaction signals  
-          PACE is a method for assessment of prescribing patterns  
-          SAN is a normalization method for combination of laboratory test results  
-      - layout: left
-        border: weak
-        title: "Development of tool for visualization of medication data"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Sep 2015 - Jun 2016  
-          Web service development.  
-          Skill: Java, HTML, JavaScript, SQL Server, R  
-      - layout: left
-        border: weak
-        title: "Development of method for detecting adverse drug reaction (ADR) signal"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Sep 2015 - May 2016  
-          Data extraction, preprocessing and analysis.  
-          Skill: SQL Server, R  
-      - layout: left
-        border: weak
-        title: "Initial setup and management of NGS Server"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Dec 2014 - Aug 2015  
-          Linux server setup and management.  
-          Skill: RedHat Enterprise Linux (RHEL) Server, Sun Grid Engine  
-      - layout: left
-        border: weak
-        title: "Research about Designing Data Warehouse on Korea Association of Health Promotion"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          May 2014 - Oct 2014  
-          Data warehouse design.  
-          Skill: Data Warehouse  
-      - layout: left
-        border: weak
-        title: "Research about Standardization of reference value of testing clinical specimen"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Dec 2013 - Mar 2014  
-          Data preprocessing and analysis.  
-          Skill: R  
-      - layout: left
-        border: weak
-        title: "Development and Quality Assurance of Open Survey"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Mar 2013 - Oct 2013  
-          Web service development.  
-          Skill: Java, HTML, JavaScript, MariaDB, Struts, Spring, Git, KT Cloud, MyBatis  
-      - layout: left
-        border: weak
-        title: "Development of Operating and Sales Dashboard"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Jan 2013 - Feb 2013  
-          Web service development.  
-          Skill: Python, HTML, JavaScript, PostgreSQL, Flask, Git, Heroku, SQLAlchemy  
-      - layout: left
-        border: weak
-        title: "Development of Global Frequency Monitoring System"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Sep 2012 - Dec 2012  
-          Web service development.  
-          Skill: Java, HTML5, JavaScript, PostgreSQL  
-      - layout: left
-        border: weak
-        title: "Development of Quadcopter (Humming bird)"
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Apr 2011 - Nov 2011  
-          Embedded module development.  
-          Skill: C, Network communication  
+      - 'Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service"' [Github]("https://github.com/jungsungjae/healthcube")
+      - 'Aug 2020 - Nov 2020 "Development of module for using Deep Learning based NLP model"'
+      - 'Apr 2020 - Jul 2020 "Development of Blockchain-based personal mobile medical-electronic-documents platform"'
+      - 'Oct 2019 - Dec 2019 "Development of a mobile application for personal health record exchanges"'
+      - 'Jul 2019 - Dec 2019 "Development of a mobile application for patient alcohol management"'
+      - 'May 2019 - Nov 2019 "Development of Blockchain-based forgery monitoring hospital information system"'
+      - 'May 2019 - Nov 2019 "Development of Blockchain-based personal health records management platform"'
+      - 'Apr 2019 - Jul 2020 "Development of Blockchain platform for health information exchange based on dynamic consent"'
+      - 'Oct 2018 - Nov 2018 "Research for integrating PGHD into HL7 FHIR, and use in Blockchain"'
+      - 'Aug 2018 - Sep 2018 "Comparison of Data Standards for Personal Health Records"'
+      - 'Jul 2018 - Dec 2018 "Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN"'
+      - 'Jan 2018 - Jun 2018 "Proof of Concept with Seoul National University Hospital"'
+      - 'Jan 2017 - May 2017 "Logistic regression of large scale data using distributed processing algorithm"'
+      - 'May 2016 - Dec 2016 "Conversion of NHIS Data of Korea to the OMOP Common Data Model"'
+      - 'Nov 2015 - Sep 2016 "Development of web based integrated code generating system for cohort analysis"'
+      - 'Mar 2016 - Sep 2016 "Development of R packages: CERT, CELAR, SAN, PACE"'
+      - 'Sep 2015 - Jun 2016 "Development of tool for visualization of medication data"'
+      - 'Sep 2015 - May 2016 "Development of method for detecting adverse drug reaction (ADR) signal"'
+      - 'Dec 2014 - Aug 2015 "Initial setup and management of NGS Server"'
+      - 'May 2014 - Oct 2014 "Research about Designing Data Warehouse on Korea Association of Health Promotion"'
+      - 'Dec 2013 - Mar 2014 "Research about Standardization of reference value of testing clinical specimen"'
+      - 'Mar 2013 - Oct 2013 "Development and Quality Assurance of Open Survey"'
+      - 'Jan 2013 - Feb 2013 "Development of Operating and Sales Dashboard"'
+      - 'Sep 2012 - Dec 2012 "Development of Global Frequency Monitoring System"'
+      - 'Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"'
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
