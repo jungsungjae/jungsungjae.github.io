@@ -51,14 +51,10 @@ googlescholar_username: Y4bnvrAAAAAJ
 # About Section
 # about_title: About Me (Use this to override about section title)
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+about_content: |
+  I develop cutting-edge technologies for digital healthcare and create new business opportunities.
+  Currently, I lead a research team at Seoul National University and Seoul National University Hospital.
+  Our team is working on the MyData project and the smart home platform project, applying advanced technologies such as Web3 and AI to digital healthcare.
 
 content:
 #  - title: Projects # Title for the section
