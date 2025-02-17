@@ -164,7 +164,7 @@ content:
       - "Wireless charging method and system in a Wi-Fi zone"
   - title: Projects
     layout: text
-    content:
+    content: | 
       - 'Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service"' [Github]("https://github.com/jungsungjae/healthcube")
       - 'Aug 2020 - Nov 2020 "Development of module for using Deep Learning based NLP model"'
       - 'Apr 2020 - Jul 2020 "Development of Blockchain-based personal mobile medical-electronic-documents platform"'
@@ -192,7 +192,7 @@ content:
       - 'Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"'
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
