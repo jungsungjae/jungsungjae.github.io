@@ -88,18 +88,10 @@ content:
         title: Ajou University
         sub_title: MS Medical Informatics
         caption: Sep 2015 - Aug 2017
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
       - layout: left
         title: Soongsil University
         sub_title: BE Computer Science and Engineering
         caption: Mar 2007 - Aug 2013
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: Experience
     layout: list
     content:
@@ -107,92 +99,42 @@ content:
         title: Seoul National University Hospital
         sub_title: Senior Researcher
         caption: Jan 2023 - present
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Seoul National University
         sub_title: Senior Researcher
         caption: Feb 2023 - Sep 2023
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Yonsei University Health System
         sub_title: Researcher
         caption: Aug 2022 - Dec 2022
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Weavrcare (ex. MediBloc)
         sub_title: Researcher
         caption: Dec 2017 - Jul 2020
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2017 - Nov 2017
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Ajou University
         sub_title: Researcher
         caption: Sep 2015 - Oct 2017
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Seoul National University Hospital
         sub_title: Researcher
         caption: Nov 2013 - Aug 2015
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Opensurvey (ex. IDINCU)
         sub_title: Developer
         caption: Mar 2013 - Oct 2013
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Spoqa
         sub_title: Intern
         caption: Jan 2013 - Feb 2013
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: left
         title: Korea Telecom
         sub_title: Intern
         caption: Sep 2012 - Dec 2012
-#        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Publications
     layout: list
     content:
@@ -201,73 +143,41 @@ content:
         title: Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study.
         link: https://pubmed.ncbi.nlm.nih.gov/32795988/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain
         link: https://pubmed.ncbi.nlm.nih.gov/32570603/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison.
         link: https://pubmed.ncbi.nlm.nih.gov/31438195/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts
         link: https://pubmed.ncbi.nlm.nih.gov/31642211/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study.
         link: https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616
         link_text: EHJ
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)
         link: https://pubmed.ncbi.nlm.nih.gov/29295138/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems.
         link: https://www.accjournal.org/journal/view.php?number=1039
         link_text: ACC
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
       - layout: left
         border: weak
         title: Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function
         link: https://pubmed.ncbi.nlm.nih.gov/25762414/
         link_text: PubMed
-        quote: >
-          Short overview of the project (optional)
-        description: |
-          Description about the work on/with the project
   - title: Presentations
     layout: list
     content:
