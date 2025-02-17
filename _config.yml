@@ -149,14 +149,14 @@ content:
   - title: Presentations
     layout: text
     content: | 
-      - 'Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"'
-      - 'Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"'
-      - 'Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"'
-      - 'Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"'
-      - 'Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"'
-      - 'Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"'
-      - 'Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"'
-      - 'Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"'
+      - Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"
+      - Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"
+      - Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"
+      - Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"
+      - Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"
+      - Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"
+      - Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"
+      - Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"
   - title: Patents
     layout: text
     content: | 
@@ -165,31 +165,31 @@ content:
   - title: Projects
     layout: text
     content: | 
-      - 'Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service"' [Github]("https://github.com/jungsungjae/healthcube")
-      - 'Aug 2020 - Nov 2020 "Development of module for using Deep Learning based NLP model"'
-      - 'Apr 2020 - Jul 2020 "Development of Blockchain-based personal mobile medical-electronic-documents platform"'
-      - 'Oct 2019 - Dec 2019 "Development of a mobile application for personal health record exchanges"'
-      - 'Jul 2019 - Dec 2019 "Development of a mobile application for patient alcohol management"'
-      - 'May 2019 - Nov 2019 "Development of Blockchain-based forgery monitoring hospital information system"'
-      - 'May 2019 - Nov 2019 "Development of Blockchain-based personal health records management platform"'
-      - 'Apr 2019 - Jul 2020 "Development of Blockchain platform for health information exchange based on dynamic consent"'
-      - 'Oct 2018 - Nov 2018 "Research for integrating PGHD into HL7 FHIR, and use in Blockchain"'
-      - 'Aug 2018 - Sep 2018 "Comparison of Data Standards for Personal Health Records"'
-      - 'Jul 2018 - Dec 2018 "Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN"'
-      - 'Jan 2018 - Jun 2018 "Proof of Concept with Seoul National University Hospital"'
-      - 'Jan 2017 - May 2017 "Logistic regression of large scale data using distributed processing algorithm"'
-      - 'May 2016 - Dec 2016 "Conversion of NHIS Data of Korea to the OMOP Common Data Model"'
-      - 'Nov 2015 - Sep 2016 "Development of web based integrated code generating system for cohort analysis"'
-      - 'Mar 2016 - Sep 2016 "Development of R packages: CERT, CELAR, SAN, PACE"'
-      - 'Sep 2015 - Jun 2016 "Development of tool for visualization of medication data"'
-      - 'Sep 2015 - May 2016 "Development of method for detecting adverse drug reaction (ADR) signal"'
-      - 'Dec 2014 - Aug 2015 "Initial setup and management of NGS Server"'
-      - 'May 2014 - Oct 2014 "Research about Designing Data Warehouse on Korea Association of Health Promotion"'
-      - 'Dec 2013 - Mar 2014 "Research about Standardization of reference value of testing clinical specimen"'
-      - 'Mar 2013 - Oct 2013 "Development and Quality Assurance of Open Survey"'
-      - 'Jan 2013 - Feb 2013 "Development of Operating and Sales Dashboard"'
-      - 'Sep 2012 - Dec 2012 "Development of Global Frequency Monitoring System"'
-      - 'Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"'
+      - Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service" [Github]("https://github.com/jungsungjae/healthcube")
+      - Aug 2020 - Nov 2020 "Development of module for using Deep Learning based NLP model"
+      - Apr 2020 - Jul 2020 "Development of Blockchain-based personal mobile medical-electronic-documents platform"
+      - Oct 2019 - Dec 2019 "Development of a mobile application for personal health record exchanges"
+      - Jul 2019 - Dec 2019 "Development of a mobile application for patient alcohol management"
+      - May 2019 - Nov 2019 "Development of Blockchain-based forgery monitoring hospital information system"
+      - May 2019 - Nov 2019 "Development of Blockchain-based personal health records management platform"
+      - Apr 2019 - Jul 2020 "Development of Blockchain platform for health information exchange based on dynamic consent"
+      - Oct 2018 - Nov 2018 "Research for integrating PGHD into HL7 FHIR, and use in Blockchain"
+      - Aug 2018 - Sep 2018 "Comparison of Data Standards for Personal Health Records"
+      - Jul 2018 - Dec 2018 "Proof of Concept for Blockchain-based Medical data sharing on KOREN/TEIN"
+      - Jan 2018 - Jun 2018 "Proof of Concept with Seoul National University Hospital"
+      - Jan 2017 - May 2017 "Logistic regression of large scale data using distributed processing algorithm"
+      - May 2016 - Dec 2016 "Conversion of NHIS Data of Korea to the OMOP Common Data Model"
+      - Nov 2015 - Sep 2016 "Development of web based integrated code generating system for cohort analysis"
+      - Mar 2016 - Sep 2016 "Development of R packages: CERT, CELAR, SAN, PACE"
+      - Sep 2015 - Jun 2016 "Development of tool for visualization of medication data"
+      - Sep 2015 - May 2016 "Development of method for detecting adverse drug reaction (ADR) signal"
+      - Dec 2014 - Aug 2015 "Initial setup and management of NGS Server"
+      - May 2014 - Oct 2014 "Research about Designing Data Warehouse on Korea Association of Health Promotion"
+      - Dec 2013 - Mar 2014 "Research about Standardization of reference value of testing clinical specimen"
+      - Mar 2013 - Oct 2013 "Development and Quality Assurance of Open Survey"
+      - Jan 2013 - Feb 2013 "Development of Operating and Sales Dashboard"
+      - Sep 2012 - Dec 2012 "Development of Global Frequency Monitoring System"
+      - Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"
   - title: A Little More About Me
     layout: text
     content: |
