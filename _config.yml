@@ -77,17 +77,6 @@ content:
 #          Short overview of the project (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description about the work on/with the project
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Ajou University
-        sub_title: MS Medical Informatics
-        caption: Sep 2015 - Aug 2017
-      - layout: left
-        title: Soongsil University
-        sub_title: BE Computer Science and Engineering
-        caption: Mar 2007 - Aug 2013
   - title: Experience
     layout: list
     content:
@@ -131,33 +120,17 @@ content:
         title: Korea Telecom
         sub_title: Intern
         caption: Sep 2012 - Dec 2012
-  - title: Publications
-    layout: text
-    content: | 
-      - "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32795988/)
-      - "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32570603/)
-      - "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31438195/)
-      - "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642211/)
-      - "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study" [EHJ](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616)
-      - "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)" [PubMed](https://pubmed.ncbi.nlm.nih.gov/29295138/)
-      - "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems" [ACC](https://www.accjournal.org/journal/view.php?number=1039)
-      - "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function" [PubMed](https://pubmed.ncbi.nlm.nih.gov/25762414/)
-  - title: Presentations
-    layout: text
-    content: | 
-      - Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"
-      - Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"
-      - Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"
-      - Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"
-      - Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"
-      - Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"
-      - Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"
-      - Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"
-  - title: Patents
-    layout: text
-    content: | 
-      - "System and Method for the analysis of large amount of data"
-      - "Wireless charging method and system in a Wi-Fi zone"
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Ajou University
+        sub_title: MS Medical Informatics
+        caption: Sep 2015 - Aug 2017
+      - layout: left
+        title: Soongsil University
+        sub_title: BE Computer Science and Engineering
+        caption: Mar 2007 - Aug 2013
   - title: Projects
     layout: text
     content: | 
@@ -190,6 +163,33 @@ content:
       - Jan 2013 - Feb 2013 "Development of Operating and Sales Dashboard"
       - Sep 2012 - Dec 2012 "Development of Global Frequency Monitoring System"
       - Apr 2011 - Nov 2011 "Development of Quadcopter (Humming bird)"
+  - title: Publications
+    layout: text
+    content: | 
+      - "Developing a Mobile App for Monitoring Medical Record Changes Using Blockchain: Development and Usability Study" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32795988/)
+      - "Developing a Mobile App for Patients to Monitor Medical Record Changes Using Blockchain" [PubMed](https://pubmed.ncbi.nlm.nih.gov/32570603/)
+      - "Extending Achilles Heel Data Quality Tool with New Rules Informed by Multi-Site Data Quality Comparison" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31438195/)
+      - "Comparison of First-Line Dual Combination Treatments in Hypertension: Real-World Evidence from Multinational Heterogeneous Cohorts" [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642211/)
+      - "Comparison between first line dual-combination therapies in hypertension: nationwide population based cohort study" [EHJ](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.3893/4089616)
+      - "Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOPCDM)" [PubMed](https://pubmed.ncbi.nlm.nih.gov/29295138/)
+      - "The Best Prediction Model for Trauma Outcomes of the Current Korean Population: a Comparative Study of Three Injury Severity Scoring Systems" [ACC](https://www.accjournal.org/journal/view.php?number=1039)
+      - "Association between the markers of metabolic acid load and higher all-cause and cardiovascular mortality in a general population with preserved renal function" [PubMed](https://pubmed.ncbi.nlm.nih.gov/25762414/)
+  - title: Presentations
+    layout: text
+    content: | 
+      - Poster at MIE 2025, "Development of a Voice-Interactive Chatbot for Personalized Health Management Using a Lifestyle Recommendation Knowledge Base"
+      - Poster at ATTD 2025, "EXPLORING FEDERATED LEARNING FOR SECURE HEALTH DATA UTILIZATION ON PERSONAL DEVICES"
+      - Poster at HEALTHINF 2025, "Architectural Design for a Web3-Based Healthcare System Associated with the MyHealthWay Platform in the Republic of Korea"
+      - Poster at OHDSI Symposium 2017, "A regression analysis method for distributed large-scale data analysis"
+      - Poster at OHDSI Symposium 2016, "A web based integrated code generating system for cohort analysis"
+      - Poster at OHDSI Symposium 2016, "Conversion of National Health Insurance Service (NHIS) Data of Korea to the Observational Medical Outcomes Partnership (OMOP) Common Data Model"
+      - Poster at OHDSI Symposium 2016, "AURORA: analytic code managing and distributing tool between researchers and data partners"
+      - Poster at KOSMI 2016 Spring, "A code generating system for cohort analysis based on web apps"
+  - title: Patents
+    layout: text
+    content: | 
+      - "System and Method for the analysis of large amount of data"
+      - "Wireless charging method and system in a Wi-Fi zone"
 
 # Footer
 footer_show_references: true
