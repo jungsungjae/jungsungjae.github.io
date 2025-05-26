@@ -135,6 +135,8 @@ content:
   - title: Projects
     layout: text
     content: | 
+      - Jan 2025 - Dec 2025 "Development of Knowledge-Augmented Generation Technology Based on Knowledge Graphs"
+      - Jan 2025 - Dec 2025 "Construction of a Knowledge Graph Based on Medical Data from Seoul National University Hospital"
       - Mar 2023 - Dec 2025 "Development of HealthCube for Web 3.0 MyData Service" [Github](https://github.com/jungsungjae/healthcube)
       - Jan 2023 - Dec 2023 "Development of Knowledge Base for Smart Health Home Platform"
       - Jul 2022 - Dec 2022 "Development of R packages for Spatio-temporal Epidemiology"
